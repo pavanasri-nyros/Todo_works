@@ -139,7 +139,7 @@ if os.getcwd() == '/app':
 
     #Allow all host headers
 
-    ALLOWED_HOSTS = ['todoapp.herokuapp.com']
+    ALLOWED_HOSTS = ['todo--app1.herokuapp.com']
 
     DEBUG = True
 
